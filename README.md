@@ -1,6 +1,6 @@
 
 
-# React Admin
+# React Admin Genetelella 
 
 
 An out-of-box UI solution for enterprise applications as a React boilerplate.
